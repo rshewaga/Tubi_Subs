@@ -1,0 +1,1 @@
+Minimum viable product for using SDL2 and Vulkan
